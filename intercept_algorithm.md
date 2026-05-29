@@ -1,5 +1,5 @@
 # 2D Aircraft Intercept Algorithm
-
+ 
 ## Known Inputs
 
 | Variable | Description |
